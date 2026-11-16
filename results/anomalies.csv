@@ -1,0 +1,8 @@
+episode,kind,first_frame,last_frame,channel,observed,reference,reason
+11,joint_jump,71,71,right_waist,0.029313519597053528,0.023744521588086938,consecutive position changes above channel threshold
+40,joint_jump,135,135,right_gripper,0.06574404239654541,0.029695435911417004,consecutive position changes above channel threshold
+40,joint_jump,137,139,right_gripper,0.07666009664535522,0.029695435911417004,consecutive position changes above channel threshold
+45,joint_jump,76,77,right_waist,0.038716871291399,0.023744521588086938,consecutive position changes above channel threshold
+45,joint_jump,181,182,right_wrist_rotate,0.06564611196517944,0.05783236488699889,consecutive position changes above channel threshold
+45,joint_jump,182,182,right_forearm_roll,0.04278796911239624,0.03974643439054487,consecutive position changes above channel threshold
+45,joint_jump,183,183,right_waist,0.02593556046485901,0.023744521588086938,consecutive position changes above channel threshold
